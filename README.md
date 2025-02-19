@@ -1,6 +1,6 @@
 # Jewelry Shopping
 
-Welcome to the **Jewelry Shopping** repository! This project is a Django-based e-commerce platform designed for users to browse, select, and purchase jewelry items online.
+This project is a Django-based e-commerce platform designed for users to browse, select, and purchase jewelry items online.
 
 ## Features
 

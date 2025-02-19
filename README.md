@@ -1,8 +1,8 @@
-# Jewelry Shopping 🛍️💎
+# Jewelry Shopping
 
 Welcome to the **Jewelry Shopping** repository! This project is a Django-based e-commerce platform designed for users to browse, select, and purchase jewelry items online.
 
-## Features ✨
+## Features
 
 - **User Authentication**: Secure login and registration system.
 - **Product Catalog**: Browse a wide range of jewelry items.
@@ -12,7 +12,7 @@ Welcome to the **Jewelry Shopping** repository! This project is a Django-based e
 - **Search & Filter**: Find products easily based on categories and keywords.
 - **Secure Transactions**: (If payment integration is implemented).
 
-## Technologies Used 🛠️
+## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript (Bootstrap)
 - **Backend:** Python (Django)
@@ -20,7 +20,7 @@ Welcome to the **Jewelry Shopping** repository! This project is a Django-based e
 - **Authentication:** Django's built-in authentication system
 - **Deployment:** AWS / Heroku / DigitalOcean (if applicable)
 
-## Installation 🚀
+## Installation
 
 ### Prerequisites
 - Python 3.x installed
@@ -64,7 +64,7 @@ Welcome to the **Jewelry Shopping** repository! This project is a Django-based e
    - User-facing site: `http://127.0.0.1:8000/`
    - Admin panel: `http://127.0.0.1:8000/admin/`
 
-## Usage 🛒
+## Usage
 
 - **For Users**:
   - Browse and search for jewelry products.
@@ -76,36 +76,3 @@ Welcome to the **Jewelry Shopping** repository! This project is a Django-based e
   - Manage products, categories, users, and orders through the admin panel.
   - Monitor sales and generate reports.
 
-## Contributing 🤝
-
-We welcome contributions! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of feature or fix"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request detailing your changes.
-
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgments 🙌
-
-- Inspired by leading e-commerce platforms.
-- Built using modern web technologies.
-
----
-
-**Check out the project presentation:** [Jewelry Shopping Project Presentation](https://github.com/mandojisaitejaswi/jewelry-shopping/blob/main/Jewelry_Shopping_Project_Presentation.pdf)
-
-🚀 **Happy Coding & Shopping!** 🛒💎
